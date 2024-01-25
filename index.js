@@ -28,12 +28,12 @@ console.log(isPalindrome('ab'))
 /* 
   Add your pseudocode here
 */
-// pseudocode
-// declare a variable
-// make the variable split
-// then iterate through each word to ensure the letters are the same, that is first and last, second and second last
+/* pseudocode
+make word be in lowercase
+then ensure there are no non alphabetic words or characters
+create an if statement to compare the word to its reverse and return true or false accordingly
+*/
 
-// then return this function with a word
 /*
   Add written explanation of your solution here
 */
